@@ -1,8 +1,8 @@
 #!/bin/bash
 apt update -y
 apt install wget -y
-wget -O /etc/logo.sh https://github.com/Azumi87/6TO4-GRE-IPIP-SIT/blob/main/logo.sh
-chmod +x /etc/logo.sh
+wget -O /etc/logo2.sh https://github.com/Azumi87/6TO4-GRE-IPIP-SIT/blob/main/logo2.sh
+chmod +x /etc/logo2.sh
 if [ -f "light_script.py" ]; then
     rm light_script.py
 fi
