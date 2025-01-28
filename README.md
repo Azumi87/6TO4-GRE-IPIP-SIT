@@ -1,4 +1,4 @@
-![R (2)](https://github.com/Azumi67/PrivateIP-Tunnel/assets/119934376/a064577c-9302-4f43-b3bf-3d4f84245a6f)
+![R (2)](https://github.com/Azumi87/PrivateIP-Tunnel/assets/119934376/a064577c-9302-4f43-b3bf-3d4f84245a6f)
 نام پروژه :  Geneve | anycast | 6TO4 | GRE | GRE6 | IP6IP6 | SIT | Erspan + IPsec- چندین سرور ایران و خارج
 ---------------------------------------------------------------
 ----------------------------------
@@ -18,7 +18,7 @@
 **روش ISATAP به همراه آموزش اضافه شد***
 
 
-![check](https://github.com/Azumi67/PrivateIP-Tunnel/assets/119934376/13de8d36-dcfe-498b-9d99-440049c0cf14)
+![check](https://github.com/Azumi87/PrivateIP-Tunnel/assets/119934376/13de8d36-dcfe-498b-9d99-440049c0cf14)
 **امکانات و نکات**
 
 - دارای گزینه Status و نوع تانل شما و تعداد سرور آنلاین در هر سرور و ایپی ریموت سرور شما را نشان میدهد.
@@ -54,7 +54,7 @@
 
   <div align="right">
   <details>
-    <summary><strong><img src="https://github.com/Azumi67/Rathole_reverseTunnel/assets/119934376/3cfd920d-30da-4085-8234-1eec16a67460" alt="Image"> آپدیت</strong></summary>
+    <summary><strong><img src="https://github.com/Azumi87/Rathole_reverseTunnel/assets/119934376/3cfd920d-30da-4085-8234-1eec16a67460" alt="Image"> آپدیت</strong></summary>
   
 ------------------------------------ 
 
@@ -99,7 +99,7 @@
 
  <div align="right">
   <details> 
-    <summary><strong><img src="https://github.com/Azumi67/6TO4-GRE-IPIP-SIT/assets/119934376/aa529e70-6eec-46bd-bec0-50fb1d9a4aa5" alt="Image"> نکات و خطا ها (مهم)</strong></summary>
+    <summary><strong><img src="https://github.com/Azumi87/6TO4-GRE-IPIP-SIT/assets/119934376/aa529e70-6eec-46bd-bec0-50fb1d9a4aa5" alt="Image"> نکات و خطا ها (مهم)</strong></summary>
 
 - اگر خطای buffer size گرفتید، اطمینان پیدا کنید که هر دو طرف سرور قبلا تانل 6to4 ای فعال ندارند.
 - اگر مشکلی در پینگ گرفتن داشتید، اطمینان پیدا کنید که ایپی ها را به درستی وارد کردید
@@ -138,17 +138,17 @@ Geneve is an extension of the original Virtual Extensible LAN (VXLAN) protocol a
 
 -----------------------
 
-![6348248](https://github.com/Azumi67/PrivateIP-Tunnel/assets/119934376/398f8b07-65be-472e-9821-631f7b70f783)
+![6348248](https://github.com/Azumi87/PrivateIP-Tunnel/assets/119934376/398f8b07-65be-472e-9821-631f7b70f783)
 **آموزش ویرایش لوکال ایپی و سایر موارد**
  <div align="right">
   <details>
-    <summary><strong><img src="https://github.com/Azumi67/Rathole_reverseTunnel/assets/119934376/fcbbdc62-2de5-48aa-bbdd-e323e96a62b5" alt="Image"> </strong>نمونه برای مثال </summary>
+    <summary><strong><img src="https://github.com/Azumi87/Rathole_reverseTunnel/assets/119934376/fcbbdc62-2de5-48aa-bbdd-e323e96a62b5" alt="Image"> </strong>نمونه برای مثال </summary>
     
   
 ------------------------------------ 
 
 
-![green-dot-clipart-3](https://github.com/Azumi67/6TO4-PrivateIP/assets/119934376/902a2efa-f48f-4048-bc2a-5be12143bef3) **سرور خارج و ایران** 
+![green-dot-clipart-3](https://github.com/Azumi87/6TO4-PrivateIP/assets/119934376/902a2efa-f48f-4048-bc2a-5be12143bef3) **سرور خارج و ایران** 
 
  <p align="right">
   <img src="https://github.com/user-attachments/assets/b6f1430e-2b11-4586-9392-f8db9f542680" alt="Image" />
@@ -169,11 +169,11 @@ Geneve is an extension of the original Virtual Extensible LAN (VXLAN) protocol a
 </div>  
 
 -----------------------
-![6348248](https://github.com/Azumi67/PrivateIP-Tunnel/assets/119934376/398f8b07-65be-472e-9821-631f7b70f783)
+![6348248](https://github.com/Azumi87/PrivateIP-Tunnel/assets/119934376/398f8b07-65be-472e-9821-631f7b70f783)
 **آموزش ریست تایمر**
  <div align="right">
   <details>
-    <summary><strong><img src="https://github.com/Azumi67/Rathole_reverseTunnel/assets/119934376/fcbbdc62-2de5-48aa-bbdd-e323e96a62b5" alt="Image"> </strong>نمونه برای مثال </summary>
+    <summary><strong><img src="https://github.com/Azumi87/Rathole_reverseTunnel/assets/119934376/fcbbdc62-2de5-48aa-bbdd-e323e96a62b5" alt="Image"> </strong>نمونه برای مثال </summary>
     
   
 ------------------------------------ 
@@ -2387,26 +2387,26 @@ sudo apt-get install python-pip -y  &&  apt-get install python3 -y && alias pyth
 ```
 - نسخه پایین برای سرور های دارای رم کمتر میباشد
 ```
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/azumi87/6TO4-GRE-IPIP-SIT/main/lightweight.sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/Azumi87/6TO4-GRE-IPIP-SIT/main/lightweight.sh)"
 ```
 - نسخه پایین برای سرور های دارای رم کمتر و externally managed
 ```
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/azumi87/6TO4-GRE-IPIP-SIT/main/managed4.sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/Azumi87/6TO4-GRE-IPIP-SIT/main/managed4.sh)"
 ```
 
 ------------------
 - برای ubuntu24 و حتی سایر سیستم عامل ها میتوانید از این دستور استفاده نمایید ( پیش نیاز ها نصب شده باشد)- این نسخه برای سرور های با رم بالا است
 ```
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/azumi87/6TO4-GRE-IPIP-SIT/main/ubuntu24.sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/Azumi87/6TO4-GRE-IPIP-SIT/main/ubuntu24.sh)"
 ```
 - برای ubuntu24 و سیستم عامل های دیگر با خطای externally managed - این نسخه برای سرور های با رم بالا است
 ```
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/azumi87/6TO4-GRE-IPIP-SIT/main/managed3.sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/Azumi87/6TO4-GRE-IPIP-SIT/main/managed3.sh)"
 ```
 ----------------
 - نسخه های پایین ممکن است برای همه قابل اجرا نباشد و برای سرور های با رم بالا است
 ```
-apt install python3 -y && sudo apt install python3-pip &&  pip install colorama && pip install netifaces && apt install curl -y && python3 <(curl -Ls https://raw.githubusercontent.com/Azumi67/6TO4-GRE-IPIP-SIT/main/ipipv2.py --ipv4)
+apt install python3 -y && sudo apt install python3-pip &&  pip install colorama && pip install netifaces && apt install curl -y && python3 <(curl -Ls https://raw.githubusercontent.com/Azumi87/6TO4-GRE-IPIP-SIT/main/ipipv2.py --ipv4)
 ```
 
 
@@ -2420,13 +2420,13 @@ sudo apt-get install python-pip -y  &&  apt-get install python3 -y && alias pyth
  <div dir="rtl">&bull;  دستور زیر برای کسانی هست که پیش نیاز ها را در سرور، نصب شده دارند</div>
  
 ```
-python3 <(curl -Ls https://raw.githubusercontent.com/azumi87/6TO4-GRE-IPIP-SIT/main/ipipv2.py --ipv4)
+python3 <(curl -Ls https://raw.githubusercontent.com/Azumi87/6TO4-GRE-IPIP-SIT/main/ipipv2.py --ipv4)
 ```
 --------------------------------------
  <div dir="rtl">&bull; اگر سرور شما خطای externally-managed-environment داد از دستور زیر اقدام به اجرای اسکریپت نمایید.</div>
  
 ```
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/azumi87/6TO4-GRE-IPIP-SIT/main/managed2.sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/Azumi87/6TO4-GRE-IPIP-SIT/main/managed2.sh)"
 ```
 ---------------------------------------------
 
